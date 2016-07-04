@@ -1,0 +1,25 @@
+{
+  "name": "libmp3lame",
+  "version": "1.0.0",
+  "description": "Lame codec for JS",
+  "main": "libmp3lame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeAreJavascripters/libmp3lame-js.git"
+  },
+  "keywords": [
+    "lib",
+    "lame",
+    "mp3",
+    "js"
+  ],
+  "author": "akrennmair",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/WeAreJavascripters/libmp3lame-js/issues"
+  },
+  "homepage": "https://github.com/WeAreJavascripters/libmp3lame-js#readme"
+}
